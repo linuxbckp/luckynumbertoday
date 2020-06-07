@@ -1,3 +1,6 @@
+//MIT License
+//Copyright (c) 2020 linuxbckp
+
 import java.util.Random;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
